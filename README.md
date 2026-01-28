@@ -1,0 +1,1 @@
+# AMLOGIC_AML-S905X-CC_Debian-Headless-Install
